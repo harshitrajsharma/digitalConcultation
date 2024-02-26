@@ -7,8 +7,6 @@ import Services from './Components/Services';
 import Casestudy from './Components/Casestudy';
 import Things from './Components/Things';
 import For from './Components/For';
-import WhiteCards from './Components/WhiteCards';
-import BlackCards from './Components/BlackCards';
 import ServicesCards from './Components/ServicesCards';
 
 function App() {
